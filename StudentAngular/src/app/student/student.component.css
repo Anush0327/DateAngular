@@ -1,0 +1,8 @@
+th,tr{
+    border: 2px;
+    background-color: rgb(226, 236, 236);
+}
+td{
+    border:2px;
+    background-color: aliceblue;
+}
